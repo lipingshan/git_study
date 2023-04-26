@@ -8,3 +8,6 @@ hot-fix modify hello.txt   2
 hot-fix modify hello.txt   3
 master modify hello.txt 1
 master modify hello.txt 2
+
+hot-fix modify hello.txt   4
+hot-fix modify hello.txt   5
