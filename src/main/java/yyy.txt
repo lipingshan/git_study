@@ -6,3 +6,4 @@ hot-fix modify yyy.txt   1
 hot-fix modify yyy.txt   2
 hot-fix modify yyy.txt   3
 master modify yyy.txt 1
+master modify yyy.txt 2
