@@ -8,3 +8,4 @@ hot-fix modify hello.txt   2
 hot-fix modify hello.txt   3
 hot-fix modify hello.txt   4
 hot-fix modify hello.txt   5
+hot-fix 远程库修改提交 测试 git pull 冲突
